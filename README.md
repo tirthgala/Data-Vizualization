@@ -1,6 +1,6 @@
 This collection features four 'Practical Assignments,' each presented as an interactive dashboard that addresses four to five specific inquiries. It utilizes advanced Tableau capabilities, incorporates key performance indicators relevant to the industry, and offers a logical narrative derived from intricate datasets.
 
-Below are the questions which each of the Practical Assignments answers:
+Below are the questions in each of the Practical Assignments:
 
 Practical Assignment - 1:
 
