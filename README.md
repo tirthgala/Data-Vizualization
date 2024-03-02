@@ -1,6 +1,7 @@
 This collection features four 'Practical Assignments,' each presented as an interactive dashboard that addresses four to five specific inquiries. It utilizes advanced Tableau capabilities, incorporates key performance indicators relevant to the industry, and offers a logical narrative derived from intricate datasets.
 
 Below are the questions which each of the questions answers:
+Practical Assignment - 1:
 
 A. Who is the overall best performing regional manager based on sales and profitability?
 
