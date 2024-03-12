@@ -2,6 +2,6 @@ This folder contains everything used for the Final_Project of the coursework whe
 
 Here is the link to our dashboard with the two views:
 1. Atlanta as Origin:
-https://public.tableau.com/app/profile/tirth.gala7456/viz/Flight_Final_Project/AtlantaOrigin
+https://public.tableau.com/app/profile/tirth.gala7456/viz/Atlanta_Origin_Final_Project/AtlantaOrigin
 2. Atlanta as Destination:
 https://public.tableau.com/app/profile/tirth.gala7456/viz/Atlanta_Destination_Final_Project/AtlantaDest
